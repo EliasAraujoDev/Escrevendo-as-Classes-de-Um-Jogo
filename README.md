@@ -1,5 +1,6 @@
-Elias Araujo😎
-Calculadora de Partidas Rankeadas
+# Elias Araujo😎
+## Escrevendo as Classes de Um Jogo
+
 Desafio de projeto feito atraves da plataforma DIO Potência Tech iFood - Programação do Zero
 Linguagem de programação: JavaScript
 
